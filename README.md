@@ -1,4 +1,4 @@
-# Pandas Essentials
+# Introduction-to-Pandas
 In this repository, we provide a comprehensive introduction to Pandas, covering essential concepts, functions, and techniques to efficiently work with tabular data. Mastering Pandas is essential for extracting insights and making data-driven decisions.
 
 Key Topics Covered:
